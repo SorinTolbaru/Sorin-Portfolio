@@ -133,7 +133,6 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 91vh;
   padding-top: 65px;
 }
 
@@ -287,7 +286,7 @@ main {
 }
 
 .my-resume, .my-contact {
-  height: 50vh;
+  min-height: 100px;
 }
 
 .companies {
